@@ -15,7 +15,7 @@ Clean design using HTML and CSS.
 Setup Instructions
 To run this project locally, follow the steps below:
 
-Prerequisites
+Prerequisites!
 Python 3.8 or higher
 pip (Python package installer)
 
