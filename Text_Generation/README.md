@@ -1,4 +1,4 @@
-# Game of Thrones LLaMA LoRA Fine-Tuning and Text Generation
+# Game of Thrones LLaMA LoRA Fine-Tuning and Text Generation!
 
 This project fine-tunes the **LLaMA 3.2 1B** model using **LoRA (Low-Rank Adaptation)** for text generation based on cleaned *Game of Thrones* text data. It also provides a script to generate themed text using the fine-tuned model.
 
