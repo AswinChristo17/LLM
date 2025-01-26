@@ -1,0 +1,5 @@
+torch>=2.0.0
+transformers>=4.35.0
+peft>=0.4.0
+datasets>=2.16.0
+PyMuPDF>=1.22.5
