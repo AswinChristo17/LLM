@@ -4,7 +4,7 @@ This project fine-tunes the **LLaMA 3.2 1B** model using **LoRA (Low-Rank Adapta
 
 ---
 
-## Features
+## Features!
 
 - Fine-tuning using **LoRA** for parameter-efficient training.
 - Supports GPU training and inference for faster performance.
