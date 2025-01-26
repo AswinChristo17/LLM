@@ -12,7 +12,7 @@ This project fine-tunes the **LLaMA 3.2 1B** model using **LoRA (Low-Rank Adapta
 
 ---
 
-## Requirements
+## Requirements!
 
 Before running the code, make sure you have the required Python libraries installed. Use the `requirements.txt` file provided:
 
