@@ -1,7 +1,7 @@
 Chatbot Application with LLaMA 3.3-70B and ChatGroq
 This is a simple yet powerful chatbot application that uses the LLaMA 3.3-70B Versatile model with ChatGroq for natural language processing. The backend is powered by Flask, and the frontend is built using HTML and CSS.
 
-Project Overview
+Project Overview!
 AI Model: LLaMA 3.3-70B Versatile
 NLP Framework: ChatGroq
 Backend: Flask
