@@ -1,0 +1,6 @@
+torch
+transformers
+peft
+datasets
+jsonlines
+bitsandbytes
